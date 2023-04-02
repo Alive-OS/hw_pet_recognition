@@ -1,3 +1,0 @@
-<launch>
-<node name="usbcam" pkg="vision" type="camera.py" output="screen" respawn="true"/>
-</launch>
